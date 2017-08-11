@@ -1,5 +1,5 @@
 ## python tutorial is the first course of our data science courses series 
-### below html files are parts of demos of the tutorial, please refer more details from our tutorial videos
+### Note：below html files are parts of demos of the tutorial, please refer more details from our tutorial videos
 
 - [1.first_python_application.html](https://cdn.rawgit.com/ainilaha/data_science_tutorial/80d84197/python_tutorial/1.first_python_application.html)
 - [2.numbers.html](https://cdn.rawgit.com/ainilaha/data_science_tutorial/80d84197/python_tutorial/2.numbers.html)
