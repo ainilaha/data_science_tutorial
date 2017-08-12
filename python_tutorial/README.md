@@ -14,3 +14,4 @@
 - [11.parameters.html](https://cdn.rawgit.com/ainilaha/data_science_tutorial/eb56dc7e/python_tutorial/11.parameters.html)
 - [12.tuple_set_dict.html](https://cdn.rawgit.com/ainilaha/data_science_tutorial/eb56dc7e/python_tutorial/12.tuple_set_dict.html)
 - [13.advance_parameters.html](https://cdn.rawgit.com/ainilaha/data_science_tutorial/eb56dc7e/python_tutorial/13.advance_parameters.html)
+- [14.OOP.html](https://cdn.rawgit.com/ainilaha/data_science_tutorial/2a22625e/python_tutorial/14.OOP.html)
